@@ -5,7 +5,7 @@ Here's a full guide how to add internalization in your React Projects.
 ## Step 1: Installation
 Open terminal and run this command - 
 ```
-npm install i18next react-i18next i18next-browser-languagedetector
+npm install i18next react-i18next i18next-browser-languagedetector i18next-http-backend
 ```
 
 ## Step 2: Creat *i18n.js* files in direct *src* folder
