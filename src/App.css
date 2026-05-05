@@ -1,0 +1,7 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    gap: 36px;
+    margin-block: 16px;
+    font-size: 22px;
+}

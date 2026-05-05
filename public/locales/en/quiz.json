@@ -1,0 +1,9 @@
+{
+  "title": "Test Your Knowledge",
+  "subtitle": "Choose a topic and challenge yourself with our quizzes!",
+  "q1": "What is the capital of France?",
+  "q2": "Which planet is closest to the Sun?",
+  "q3": "What is 12 × 12?",
+  "btn_submit": "Submit Answer",
+  "score_label": "Score"
+}
